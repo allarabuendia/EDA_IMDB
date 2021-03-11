@@ -3,7 +3,7 @@
 
 ### Repository content:
 > #### Jupyter Notebook
-> Data Cleaning.Data Analisys in python.
+> Data Cleaning.
 > Data Analisys in python.
 > Libraries: Pandas, Numpy, Plotly, Matplotlib, Seaborn, Wordcloud, Difflib, Squarify.
 
