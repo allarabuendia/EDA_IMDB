@@ -2,7 +2,7 @@
 ## Exploratory data analysis Imdb top 1000. Notebook in spanish.
 
 ### Repository content:
-> #### +Jupyter Notebook
+> #### Jupyter Notebook
 > Data Cleaning.Data Analisys in python.
 > Data Analisys in python.
 > Libraries: Pandas, Numpy, Plotly, Matplotlib, Seaborn, Wordcloud, Difflib, Squarify.
